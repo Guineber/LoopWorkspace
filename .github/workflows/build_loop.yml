@@ -42,7 +42,7 @@ jobs:
           dexcom_sage \
           dexcom_upload_readings \
           future_carbs_4h \
-          low_carb_limit \
+          
           high_carb_limit \
           no_auth \
           override_sens \
@@ -65,7 +65,7 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           low_carb_limit \
-          high_carb_limit \
+      
           no_auth \
           override_sens \
           now_line \
